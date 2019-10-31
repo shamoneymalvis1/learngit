@@ -1,3 +1,3 @@
 # learngit
 DevOps Class
-This is a Learning for Me
+This is a Learning for Me.
